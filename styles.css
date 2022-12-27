@@ -1,0 +1,405 @@
+header
+{
+    width: 100%;
+    border: 5px white solid;
+    display: flex;
+    position:fixed;
+    height:10px;
+    background-color: white;
+    margin: 0;
+    padding: 10px 10px;
+    color: black;
+    text-align: center;
+    top: 0;
+    transition: 0.2s;
+}
+body
+{
+    font-family: 'Montserrat'
+
+}
+#div1
+{
+    width: 50%;
+    border: 5px;
+    padding: 10px;
+    margin: 5px;
+    display: flex;
+}
+#imglogo
+{
+    width:50px;
+}
+#navbar
+{
+width: 50%;
+border: 5px;
+padding: 10px;
+margin: 5px;
+display: flex;
+}
+#navlink1
+{
+    text-decoration: none;
+    padding:10px;
+    margin: 10px;
+    color: #259595;
+}
+.navlink2
+{
+    text-decoration: none;
+    padding:10px;
+    margin: 10px;
+    color: #259595;
+}
+#section1
+{
+    border: 5px;
+    margin: 5px;
+    padding:40px 30px;
+    width: 100%;
+    display: flex;
+}
+#future
+{
+    width: 100%;
+    border: 5px;
+    margin: 100px;
+    padding: 5px;
+    font-weight: 900;
+}
+#parafuture
+{
+    font-size: 40px;
+    margin: 0px;
+    border: 5px;
+    font-weight: 900;
+}
+#parastate
+{
+    font-size: 80px;
+    margin: 0px;
+    border: 5px;
+    font-weight: 900;
+}
+button 
+{
+  padding: 16px 32px;
+  text-align: center;
+  font-size: 16px;
+  cursor: pointer;
+  background-color: white;
+  border-color: teal;
+  color: #259595;
+  margin:20px;
+  border: 2px solid;
+}
+button:hover
+{
+color: white;
+background-color: #259595;
+}
+#loginlink
+{
+text-decoration: none;
+color: #259595;
+border: 5px;
+}
+#phone
+{
+    width: 50%;
+    border: 5px;
+    padding: 5px;
+    margin: 50px;
+    padding: 5px;
+    display: flex;
+}
+#imgphone
+{
+    width:90%;
+    padding: 5%;
+}
+.section3
+{
+    border: 5px;
+    margin: 5px;
+    padding:5px;
+    width: 100%;
+}
+#travel
+{
+border: 5px;
+margin: 5px;
+text-align: center;
+width: 98%;
+}
+#paratravel
+{
+font-size: 50px; 
+font-weight: bold;
+border: 5px;
+line-height: 0;
+}
+#paratravel1
+{
+font-size: 20px;
+width: 85%;
+border: 5px;
+margin: auto;
+margin-bottom: 10px;
+line-height: 2;
+}
+#wahala
+{
+    width: 100%;
+    border: 5px;
+    margin: auto;
+    padding: auto;
+    line-height: 5;
+}
+#hr
+{
+     display: block;  
+     overflow: hidden;
+     border-style: inset; 
+     border-width: 2px solid black;
+     width: 8%;
+     margin-left: auto;
+     margin-right: auto;
+     transform: rotate(90deg);
+     margin-top: 5%; 
+     margin-bottom: 5%;
+     padding: 2px black;
+     font-weight: bold;
+}
+article
+{
+    border: 5px;
+    margin: 5px;
+    padding: 5px;
+    display: flex;
+    text-align: center;
+    width:100%;
+}
+#icons
+{
+    border: 5px;
+    width: 20%;
+    margin: 5px;
+    padding: 10px;
+}
+#paraConvenience
+{
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    line-height: 1;
+}
+#paraconv
+{
+font-size: 20px;
+color: black;
+font-family:serif;
+line-height: 2;
+border: 5px;
+}
+.fa
+{
+font-size:90px;
+border:5px;
+margin: 5px;
+padding: 5px;
+color: #259595;
+}
+.section4
+{
+width: 100%;
+margin: 20px;
+border: 5px;
+padding: 50px;
+background-color: rgba(221, 235, 235, 0.521);
+text-align: center;
+}
+#fivehundred
+{
+    font-size: 99px;
+    text-align: center;
+    color: #259595;
+}
+#thefirst
+{
+    font-weight: bold;
+    font-size: 50px;
+    text-align: center;
+    line-height: 1.5;
+}
+#signup
+{
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+    border: 5px;
+    width: 11%;
+    margin: auto;
+    line-height: 2;
+}
+#link
+{
+    text-decoration: none;
+    font-size: 23px;
+    width: 50%;
+    border: 5px;
+    padding: 20px;
+    margin: auto;
+    line-height: 6;
+}
+.section5
+{
+width: 100%;
+margin: 5px;
+border: 5px;
+padding: 15px;
+}
+#paraupdates
+{
+    font-weight: bold;
+    text-align: center;
+    font-size: 30px;
+}
+#mountain
+{
+    width: 100%;
+}
+.polaroid 
+{
+    width: 30%;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 25px;
+    margin: 100px;
+  }
+  
+.container 
+{
+    padding: 10px 10px;
+}
+#paraexperience
+{
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 1.5;
+}
+#paratransport
+{
+    font-size: 20px;
+    padding: 5px;
+    color: black;
+    line-height: 2;
+}
+.mountain:hover {opacity: 0.7;
+}
+/* The Modal (background) */
+.modal 
+{
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.9); /* Black w/ opacity */
+}
+/* Modal Content (image) */
+.mountain-content {
+  margin: auto;
+  display: block;
+  width: 80%;
+  max-width: 700px;
+}
+/* Add Animation */
+.mountain-content, #caption 
+{  
+  animation-name: zoom;
+  animation-duration: 0.6s;
+}
+.section6
+{
+    width: 100%;
+    margin: 5px;
+    border: 5px;
+    padding: 20px;
+    display: flex;
+}
+#company
+{
+    border: 5px;
+    width: 25%;
+    text-align: center;
+    margin: 5px;
+}
+#paracompany
+{
+ font-size: 18px;
+ font-weight: bold;
+ color: ;
+}
+#paracom
+{
+    font-size: 15px;
+    font-weight: bold;
+    color: grey; 
+}
+#legal
+{
+    border: 5px;
+    width: 25%;
+    text-align: center;
+    margin: 5px;
+}
+#product
+{
+    border: 5px;
+    width: 25%;
+    text-align: center;
+    margin: 5px;
+}
+#support
+{
+    border: 5px;
+    width: 25%;
+    text-align: center;
+    margin: 5px;
+}
+#myBtn 
+{
+    display: none;
+    position: fixed;
+    bottom: 20px;
+    right: 30px;
+    z-index: 99;
+    font-size: 18px;
+    border: none;
+    outline: none;
+    background-color: red;
+    color: white;
+    cursor: pointer;
+    padding: 15px;
+    border-radius: 4px;
+  }
+  #myBtn:hover
+{
+    background-color: orange;
+}
+footer
+{
+    width: 100%;
+    border: 10px;
+    opacity: 0.5;
+    margin: 5px;
+    color: grey;
+}
